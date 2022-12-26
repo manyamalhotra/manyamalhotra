@@ -1,4 +1,4 @@
-# Hi Everyone! I'm [Manya Malhotra!](https://www.linkedin.com/in/manyamalhotra/) 
+# Hi Everyone! I'm [Manya Malhotra!](https://www.linkedin.com/in/manyamalhotra/) <img src="https://github.com/manyamalhotra/manyamalhotra/blob/main/images/quby-high-five.gif?raw=true" height="25px">
 
 [![@manyamalhotra's Holopin board](https://holopin.me/manyamalhotra)](https://holopin.io/@manyamalhotra)
 
