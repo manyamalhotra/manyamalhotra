@@ -4,7 +4,7 @@
 
 <h3><b><samp>About Me </samp></b></h3>
 
-- 👨🏻‍🎓 Final Year B.Tech Student
+- 👨🏻‍🎓 B.Tech Graduate
 - 💻 Computer Science Major
 - 👨🏻‍💻 ML and Deep Learning Enthusiast
 
